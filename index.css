@@ -94,6 +94,6 @@ h1 a{
     color: white;
 }
 h1 a:hover{
-    color: white;
+    color:blue;
     transition: 1s;
 }
